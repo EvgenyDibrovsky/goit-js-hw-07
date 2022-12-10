@@ -45,3 +45,5 @@ gallery.addEventListener("click", (e) => {
 });
 
 console.log(galleryItems);
+
+
